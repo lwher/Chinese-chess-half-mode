@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/BA.png</file>
+        <file>picture/BK.png</file>
+        <file>picture/BN.png</file>
+        <file>picture/BAS.png</file>
+        <file>picture/BB.png</file>
+        <file>picture/BBS.png</file>
+        <file>picture/BC.png</file>
+        <file>picture/BCS.png</file>
+        <file>picture/BKS.png</file>
+        <file>picture/BNS.png</file>
+        <file>picture/BP.png</file>
+        <file>picture/BPS.png</file>
+        <file>picture/BR.png</file>
+        <file>picture/BRS.png</file>
+        <file>picture/RA.png</file>
+        <file>picture/RB.png</file>
+        <file>picture/RBS.png</file>
+        <file>picture/RC.png</file>
+        <file>picture/RK.png</file>
+        <file>picture/RKS.png</file>
+        <file>picture/RN.png</file>
+        <file>picture/RNS.png</file>
+        <file>picture/RP.png</file>
+        <file>picture/RPS.png</file>
+        <file>picture/RR.png</file>
+        <file>picture/RRS.png</file>
+        <file>picture/blank.png</file>
+        <file>picture/back.png</file>
+        <file>picture/RAS.png</file>
+        <file>picture/RCS.png</file>
+        <file>picture/bS.png</file>
+    </qresource>
+</RCC>
